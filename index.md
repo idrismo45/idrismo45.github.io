@@ -5,8 +5,7 @@
 ### My Works
 
 [Trading Performance Dashboard](/sample_page)
-<img src="images/Primary-Image-how-to-buy-dogecoin-doge-7370204-429d2dbae0404ad1a75cdcfb826f75c7.jpg
-?raw=true"/>
+<img src="images/Primary-Image-how-to-buy-dogecoin-doge-7370204-429d2dbae0404ad1a75cdcfb826f75c7.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
